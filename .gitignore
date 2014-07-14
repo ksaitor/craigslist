@@ -1,0 +1,28 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+pids
+logs
+results
+
+# Editors
+*.sublime-workspace
+
+# Node
+npm-debug.log
+node_modules/
